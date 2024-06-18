@@ -1,54 +1,65 @@
 # Hi there, I'm Chamod Rashmika! 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer and freelancer with a knack for creating efficient and innovative solutions. Here you'll find a collection of my projects, contributions, and collaborations. Feel free to explore and reach out if you have any questions or opportunities!
+Welcome to my GitHub profile! I'm a passionate software engineer with a strong desire to learn and explore new technologies. Here you'll find a collection of my projects, contributions, and collaborations. Feel free to explore and reach out if you have any questions or opportunities!
 
 ## 🚀 About Me
 
-- **👨‍💻 Software Developer:** Skilled in various programming languages and frameworks, with a focus on creating scalable and maintainable code.
+- **👨‍💻 Full-Stack Developer:** Skilled in various programming languages and frameworks, with a focus on creating scalable and maintainable code.
 - **🌟 Freelancer:** Offering services on [Fiverr](https://www.fiverr.com/chamod_rash) and [Upwork](https://www.upwork.com/freelancers/~01654ce4e884e9758c?mp_source=share).
 - **🌐 Open Source Enthusiast:** Active contributor to open source projects, aiming to give back to the community.
 
 ## 🛠️ Skills
 
-- **Languages:** JavaScript, Python, Java, C++
-- **Frameworks:** React, Node.js, Django, Spring Boot
-- **Tools:** Git, Docker, Kubernetes, CI/CD
-- **Databases:** MySQL, MongoDB, PostgreSQL
+- **Languages:** HTML, CSS, JavaScript, PHP, Java, Python, C++
+- **Frameworks:** React, Next.js, Laravel, Svelte, Node.js, .NET
+- **Tools:** Git, Docker, CI/CD
+- **Databases:** MySQL, MongoDB
+- **Design Tools:** Figma, Photoshop, Illustrator
+- **Specialties:** Web Development, App Development (React Native, Flutter), AI Applications, UI/UX Design, Web 3.0
 
 ## 🌟 Featured Projects
 
-### [Project 1: Awesome Web App](https://github.com/chamodRash/awesome-web-app)
-A full-stack web application built with React and Node.js, featuring a modern UI and robust backend.
+### [HelaGPT](https://helagpt.netlify.app/dashboard)
+My own AI SaaS platform designed to meet the needs of our country (still under development).
 
-### [Project 2: Machine Learning Model](https://github.com/chamodRash/ml-model)
-An advanced machine learning model implemented in Python using TensorFlow, designed for predictive analytics.
+### [Exam Registration System](http://ers-fos.wuaze.com)
+A comprehensive system for the University of Jaffna Science Faculty.
 
-### [Project 3: Mobile App](https://github.com/chamodRash/mobile-app)
-A cross-platform mobile application developed with Flutter, providing seamless performance and a great user experience.
+### [IEEE Computational Intelligence Society Website](https://society.jfn.ac.lk/cis/)
+Official website for the student branch chapter at the University of Jaffna.
+
+### [ElephantHouse Clone](https://elephanthouse-clone.vercel.app)
+A new UI design for the ElephantHouse website.
+
+### [Ruvio](https://ruvio.vercel.app)
+A SaaS platform for Software Products.
+
 
 ## 📈 GitHub Stats
 
 ![Chamod's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chamodRash&show_icons=true&theme=radical)
 
+## 📚 Education
+
+- **University of Jaffna, Sri Lanka:** Computer Science (Undergraduate)
+- **National Institute of Co-operative Development:** NVQ Level 3
+- **Wattegama Central College:** Mathematics A/L
+
 ## 🔗 Connect with Me
 
+- [LinkedIn](https://www.linkedin.com/in/chamod-rashmika)
 - [Fiverr](https://www.fiverr.com/chamod_rash)
 - [Upwork](https://www.upwork.com/freelancers/~01654ce4e884e9758c?mp_source=share)
-- [LinkedIn](https://www.linkedin.com/in/chamodrashmika/)
+- [GitHub](https://github.com/chamodRash)
 
 Feel free to reach out for collaborations, freelance projects, or just to say hi! 😊
 
-<!--
-**chamodRash/chamodRash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📧 Contact Me
 
-Here are some ideas to get you started:
+- **Email:** cnilwakka@gmail.com
+- **Phone:** +94 77 268 4933
+- **Address:** No 4/56, Matale Rd, Wattegama, Kandy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Thanks for visiting! Have a great day!
